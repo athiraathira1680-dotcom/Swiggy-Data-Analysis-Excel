@@ -43,6 +43,7 @@ Some key insights from the dashboard:
 ---
 ## Dashboard Preview 
 ![Dashboard](https://github.com/athiraathira1680-dotcom/Swiggy-Data-Analysis-Excel/blob/main/Screenshot%202026-05-15%20200119.png?raw=true)
+![Dashboard](https://github.com/athiraathira1680-dotcom/Swiggy-Data-Analysis-Excel/blob/main/Screenshot%202026-05-15%20200325.png?raw=true)
 
 ---
 ## Files Included
